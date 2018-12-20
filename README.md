@@ -1,3 +1,6 @@
+原作者实现过程博客地址：https://www.jianshu.com/p/a81d473bba71
+
+
 # react_shopping
 使用React前端框架+Koa模拟后台数据搭建团购网站前端
 
